@@ -6,14 +6,22 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70A63&center=true&vCenter=true&width=435&lines=Python+%7C+Machine+Learning+%7C+Flask+APIs;Explaining+concepts+with+code+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 ---
 
 <!-- Short Intro -->
 🌱 I'm currently working on **Machine Learning & Python explanations** to simplify concepts for learners.
 
-🧠 I love building **Flask APIs**, writing clean Python code, and exploring **real-world ML applications**.
+🧠 I love building **Flask APIs**, writing clean Python code using **Object-Oriented Programming**, and exploring **real-world ML applications**.
 
 📚 I'm documenting my journey by **explaining ML algorithms & Python concepts** through projects and articles.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+</p>
 
 ---
 
@@ -54,22 +62,25 @@
 <!-- What I'm Working On -->
 ### 📌 What I'm Currently Working On
 
-- 📖 **Explaining ML algorithms** using visualizations, examples & simple Python code
-- 🧩 **Writing about Python concepts** like decorators, generators, OOPs, etc.
-- 🔗 Building & deploying **Flask APIs for ML models**
-- ✍️ Documenting all my learnings and mini-projects on GitHub
+- 📖 **Explaining ML algorithms** using visualizations, examples & simple Python code.  
+- 🧩 **Writing about Python concepts** like decorators, generators, OOPs, etc.  
+- 🔗 Building & deploying **Flask APIs for ML models.**  
+- ✍️ Documenting all my learnings and mini-projects on GitHub.  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" />
+</p>
 
 ---
 
 <!-- Projects -->
 ### 🧠 Upcoming Project Ideas
 
-- 🔍 Exploring real-world problems to apply Machine Learning and Python solutions  
-- 🧪 Creating hands-on mini-projects to explain ML algorithms with clarity  
-- 🌐 Developing APIs and interactive tools using Flask and Postman  
-- 📊 Building data-driven applications using Pandas, NumPy, and visualization tools  
-- 📖 Writing clean, beginner-friendly notebooks to teach core Python and ML concepts  
-
+- 🔍 Exploring real-world problems to apply Machine Learning and Python solutions.  
+- 🧪 Creating hands-on mini-projects to explain ML algorithms with clarity.  
+- 🌐 Developing APIs and interactive tools using Flask and Postman.  
+- 📊 Building data-driven applications using Pandas, NumPy, and visualization tools.  
+- 📖 Writing clean, beginner-friendly notebooks to teach core Python and ML concepts.  
 
 ---
 
@@ -92,7 +103,14 @@
 ### 🤝 Connect with Me
 
 <p>
-  <a href="mailto:kaushalofficial22@gmail.com"><img src="https://img.shields.io/badge/email-%23DD4B39.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="💼 I’m actively looking for opportunities and available on platforms like Naukri and LinkedIn." target="_blank"><img src="https://img.shields.io/badge/Naukri-003366?style=for-the-badge&logo=briefcase&logoColor=white"/>
+  <a href="mailto:kaushalofficial22@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/kaushalgumphalwar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+📌 I’m also available on **Naukri** (for verified recruiters).  
+📄 [Download My Resume](https://your-resume-link.com)
