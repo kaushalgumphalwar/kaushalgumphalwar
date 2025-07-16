@@ -94,5 +94,5 @@
 <p>
   <a href="mailto:kaushalofficial22@gmail.com"><img src="https://img.shields.io/badge/email-%23DD4B39.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://www.naukri.com/mnjuser/profile](https://www.naukri.com/mnjuser/profile)" target="_blank"><img src="https://img.shields.io/badge/Naukri-003366?style=for-the-badge&logo=briefcase&logoColor=white"/>
+  <a href="💼 I’m actively looking for opportunities and available on platforms like Naukri and LinkedIn." target="_blank"><img src="https://img.shields.io/badge/Naukri-003366?style=for-the-badge&logo=briefcase&logoColor=white"/>
 </p>
